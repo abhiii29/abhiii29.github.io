@@ -16,7 +16,7 @@ published: true
 ## Installation
 * Import the python script to the ImageJ/Fiji installation directory
 * Create a directory structure for Original data, Validation data and Test data
-	* Every directory should have an Original image and a labelled image
+	* Every directory should have an Original image directory and a labelled image directory
 
 ## Python Dependencies
 ### Conda
