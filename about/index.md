@@ -18,10 +18,10 @@ published: true
 * Create a directory structure for Original data, Validation data and Test data
 	* Every directory should have an Original image and a labelled image
 
-## Dependencies
+## Python Dependencies
 ### Conda
 * Tensorflow v1.15 (recommended: v1.12 for default compatibility with ImageJ)
-* Keras 2.2.4
+* Keras v2.2.4
 * Matplotlib
 * Pillow
 * Scikit-image
