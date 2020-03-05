@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 -Adding ImageJ/Fiji directory with CSBDeep and Trainable Weka Segmentation packages included.
 
